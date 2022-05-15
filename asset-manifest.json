@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/velazquez-refrigeracion/static/css/main.073c9b0a.css",
-    "main.js": "/velazquez-refrigeracion/static/js/main.59ca3ed3.js",
+    "main.js": "/velazquez-refrigeracion/static/js/main.e9abc456.js",
     "static/js/787.d33df275.chunk.js": "/velazquez-refrigeracion/static/js/787.d33df275.chunk.js",
-    "static/media/logo.svg": "/velazquez-refrigeracion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/velazquez-refrigeracion/index.html",
     "main.073c9b0a.css.map": "/velazquez-refrigeracion/static/css/main.073c9b0a.css.map",
-    "main.59ca3ed3.js.map": "/velazquez-refrigeracion/static/js/main.59ca3ed3.js.map",
+    "main.e9abc456.js.map": "/velazquez-refrigeracion/static/js/main.e9abc456.js.map",
     "787.d33df275.chunk.js.map": "/velazquez-refrigeracion/static/js/787.d33df275.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59ca3ed3.js"
+    "static/js/main.e9abc456.js"
   ]
 }
