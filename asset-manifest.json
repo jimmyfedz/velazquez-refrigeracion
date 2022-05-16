@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/velazquez-refrigeracion/static/css/main.073c9b0a.css",
-    "main.js": "/velazquez-refrigeracion/static/js/main.e9abc456.js",
-    "static/js/787.d33df275.chunk.js": "/velazquez-refrigeracion/static/js/787.d33df275.chunk.js",
-    "index.html": "/velazquez-refrigeracion/index.html",
-    "main.073c9b0a.css.map": "/velazquez-refrigeracion/static/css/main.073c9b0a.css.map",
-    "main.e9abc456.js.map": "/velazquez-refrigeracion/static/js/main.e9abc456.js.map",
-    "787.d33df275.chunk.js.map": "/velazquez-refrigeracion/static/js/787.d33df275.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e9abc456.js"
-  ]
+  "main.css": "/velazquez-refrigeracion/static/css/main.5e292bb0.chunk.css",
+  "main.js": "/velazquez-refrigeracion/static/js/main.9b251c72.chunk.js",
+  "main.js.map": "/velazquez-refrigeracion/static/js/main.9b251c72.chunk.js.map",
+  "static/js/1.2b447e1b.chunk.js": "/velazquez-refrigeracion/static/js/1.2b447e1b.chunk.js",
+  "static/js/1.2b447e1b.chunk.js.map": "/velazquez-refrigeracion/static/js/1.2b447e1b.chunk.js.map",
+  "static/js/2.96f7c7ef.chunk.js": "/velazquez-refrigeracion/static/js/2.96f7c7ef.chunk.js",
+  "static/js/2.96f7c7ef.chunk.js.map": "/velazquez-refrigeracion/static/js/2.96f7c7ef.chunk.js.map",
+  "runtime~main.js": "/velazquez-refrigeracion/static/js/runtime~main.249a66da.js",
+  "runtime~main.js.map": "/velazquez-refrigeracion/static/js/runtime~main.249a66da.js.map",
+  "static/css/main.5e292bb0.chunk.css.map": "/velazquez-refrigeracion/static/css/main.5e292bb0.chunk.css.map",
+  "index.html": "/velazquez-refrigeracion/index.html",
+  "precache-manifest.6d282921a77b41a003e0a8dfe6ed415f.js": "/velazquez-refrigeracion/precache-manifest.6d282921a77b41a003e0a8dfe6ed415f.js",
+  "service-worker.js": "/velazquez-refrigeracion/service-worker.js"
 }
